@@ -1,3 +1,6 @@
 /dataset/*
 /.ipynb_checkpoints/*
 pytorch/custom_dataset_dataloader/.ipynb_checkpoints/custom_dataset_dataloader-checkpoint.ipynb
+/pytorch/unet/data/*
+pytorch/DCGAN/.ipynb_checkpoints/DCGAN-checkpoint.ipynb
+pytorch/k-fold/.ipynb_checkpoints/k-fold-checkpoint.ipynb
